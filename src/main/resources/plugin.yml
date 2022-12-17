@@ -1,0 +1,6 @@
+name: LockcardEssentials
+version: 1.0
+author: SirSpigotAPI
+main: de.lockcard.essentials.Main
+commands:
+
