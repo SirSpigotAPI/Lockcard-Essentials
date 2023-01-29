@@ -10,7 +10,8 @@ public class PlayerJoinListener implements Listener {
     @EventHandler
     public void handlePlayerJoin(PlayerJoinEvent event) {
         Player player = event.getPlayer();
-        player.setGlowing(true);
+        if(!player.hasPlayedBefore())
+            player.setGlowing(true);
     }
 
 }
