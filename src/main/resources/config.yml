@@ -1,0 +1,10 @@
+Messages:
+  Prefix: "[Lockcraft-Essentials] "
+  NoPermission: "Dir fehlen die erforderlichen Berechtigungen um diesen Befehl auszuführen"
+  PlayerNotFound: "Der Spieler %name% konnte nicht gefunden werden"
+  GlowSelf:
+    Enable: "Du leuchtest nun"
+    Disable: "Du hast aufgehört zu leuchten"
+  GlowOther:
+    Enable: "Der Spieler %name% leuchtet nun"
+    Disable: "Der Spieler %name% hat aufgehört zu leuchten"
